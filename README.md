@@ -2,7 +2,7 @@
 
 An elegant, AI-powered invoice escalation and management SaaS application. Automatically send personalized escalating emails to clients with overdue invoices, from polite reminders to formal legal notices.
 
-**Live Demo:** [https://lateescalate.manus.space](https://lateescalate.manus.space)
+**Live Demo:** https://latepayrem-9rsnvsy7.manus.space
 
 ## Features
 
