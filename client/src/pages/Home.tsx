@@ -178,7 +178,7 @@ export default function Home() {
             </CardHeader>
             <CardContent className="space-y-6">
               <div className="text-3xl font-bold text-slate-900">
-                $29<span className="text-lg text-slate-600">/month</span>
+                $17<span className="text-lg text-slate-600">/month</span>
               </div>
               <ul className="space-y-3">
                 {[
