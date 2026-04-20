@@ -140,7 +140,7 @@ export default function Billing() {
                 </CardHeader>
                 <CardContent className="space-y-6">
                   <div>
-                    <p className="text-3xl font-bold text-accent">$19</p>
+                    <p className="text-3xl font-bold text-accent">$17</p>
                     <p className="text-sm text-muted-foreground">/month, cancel anytime</p>
                   </div>
 
